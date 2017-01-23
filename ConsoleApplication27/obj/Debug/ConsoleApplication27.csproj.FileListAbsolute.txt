@@ -1,0 +1,10 @@
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe.config
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.exe
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.pdb
+C:\Users\Piotrek\Downloads\Zadanie2-master\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe.config
+C:\Users\Piotrek\Downloads\Zadanie2-master\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe
+C:\Users\Piotrek\Downloads\Zadanie2-master\ConsoleApplication27\bin\Debug\ConsoleApplication27.pdb
+C:\Users\Piotrek\Downloads\Zadanie2-master\ConsoleApplication27\obj\Debug\ConsoleApplication27.exe
+C:\Users\Piotrek\Downloads\Zadanie2-master\ConsoleApplication27\obj\Debug\ConsoleApplication27.pdb
